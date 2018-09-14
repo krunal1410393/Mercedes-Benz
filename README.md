@@ -1,2 +1,2 @@
 # Mercedes-Benz
-Mercedes Benz
+Mercedes Benz Machine Learning project
